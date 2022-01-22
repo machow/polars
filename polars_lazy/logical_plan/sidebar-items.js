@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Context",""],["LiteralValue",""],["LogicalPlan",""]],"fn":[["lit","Create a Literal Expression from `L`"]],"struct":[["GroupbyOptions",""],["Null","The literal Null"]],"trait":[["Literal",""]]});
